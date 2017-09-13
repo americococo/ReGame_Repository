@@ -1,0 +1,105 @@
+﻿  TrackMagent.cpp
+  Track.cpp
+e:\study\01\re\rgame\track.cpp(113): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+e:\study\01\re\rgame\track.cpp(115): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+e:\study\01\re\rgame\track.cpp(135): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\study\01\re\rgame\track.cpp(138): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\study\01\re\rgame\track.cpp(139): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+e:\study\01\re\rgame\track.cpp(144): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\study\01\re\rgame\track.cpp(145): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+e:\study\01\re\rgame\track.cpp(150): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\study\01\re\rgame\track.cpp(151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+  Texture.cpp
+e:\study\01\re\rgame\texture.cpp(10): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+e:\study\01\re\rgame\texture.cpp(30): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\study\01\re\rgame\texture.cpp(31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Sprite.cpp
+e:\study\01\re\rgame\sprite.cpp(45): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\study\01\re\rgame\sprite.cpp(47): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\study\01\re\rgame\sprite.cpp(20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+e:\study\01\re\rgame\sprite.cpp(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+e:\study\01\re\rgame\sprite.cpp(42): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\study\01\re\rgame\sprite.cpp(44): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\study\01\re\rgame\sprite.cpp(46): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+  RecourceManger.cpp
+e:\study\01\re\rgame\recourcemanger.cpp(25): warning C4150: 불완전한 형식 'SDL_Texture'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+  e:\study\01\re\sdk\sdl\include\sdl_render.h(128): note: 'SDL_Texture' 선언을 참조하십시오.
+  Note.cpp
+e:\study\01\re\rgame\note.cpp(56): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  GameSystem.cpp
+  GameScene.cpp
+e:\study\01\re\rgame\gamescene.cpp(70): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\study\01\re\rgame\gamescene.cpp(82): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\study\01\re\rgame\gamescene.cpp(31): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+e:\study\01\re\rgame\gamescene.cpp(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+e:\study\01\re\rgame\gamescene.cpp(54): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\study\01\re\rgame\gamescene.cpp(57): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\study\01\re\rgame\gamescene.cpp(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+e:\study\01\re\rgame\gamescene.cpp(63): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\study\01\re\rgame\gamescene.cpp(64): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+e:\study\01\re\rgame\gamescene.cpp(69): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\study\01\re\rgame\gamescene.cpp(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+e:\study\01\re\rgame\gamescene.cpp(122): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+  GameObject.cpp
+  Font.cpp
+e:\study\01\re\rgame\font.cpp(9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+e:\study\01\re\rgame\track.cpp(278): warning C4715: 'Track::keyDown': 모든 제어 경로에서 값을 반환하지는 않습니다.
+Font.obj : error LNK2019: SDL_CreateTextureFromSurface 외부 기호(참조 위치: "public: void __cdecl Font::setText(char const *)" (?setText@Font@@QEAAXPEBD@Z) 함수)에서 확인하지 못했습니다.
+Font.obj : error LNK2019: SDL_QueryTexture 외부 기호(참조 위치: "public: void __cdecl Font::setText(char const *)" (?setText@Font@@QEAAXPEBD@Z) 함수)에서 확인하지 못했습니다.
+Texture.obj : error LNK2001: SDL_QueryTexture 외부 기호를 확인할 수 없습니다.
+Font.obj : error LNK2019: TTF_OpenFont 외부 기호(참조 위치: "public: __cdecl Font::Font(char const *,int)" (??0Font@@QEAA@PEBDH@Z) 함수)에서 확인하지 못했습니다.
+Font.obj : error LNK2019: TTF_RenderText_Solid 외부 기호(참조 위치: "public: void __cdecl Font::setText(char const *)" (?setText@Font@@QEAAXPEBD@Z) 함수)에서 확인하지 못했습니다.
+GameScene.obj : error LNK2019: Mix_Init 외부 기호(참조 위치: "public: virtual void __cdecl GameScene::Init(void)" (?Init@GameScene@@UEAAXXZ) 함수)에서 확인하지 못했습니다.
+GameScene.obj : error LNK2019: Mix_OpenAudio 외부 기호(참조 위치: "public: virtual void __cdecl GameScene::Init(void)" (?Init@GameScene@@UEAAXXZ) 함수)에서 확인하지 못했습니다.
+GameScene.obj : error LNK2019: Mix_LoadMUS 외부 기호(참조 위치: "public: virtual void __cdecl GameScene::Init(void)" (?Init@GameScene@@UEAAXXZ) 함수)에서 확인하지 못했습니다.
+GameScene.obj : error LNK2019: Mix_PlayMusic 외부 기호(참조 위치: "public: virtual void __cdecl GameScene::Init(void)" (?Init@GameScene@@UEAAXXZ) 함수)에서 확인하지 못했습니다.
+GameSystem.obj : error LNK2019: SDL_PushEvent 외부 기호(참조 위치: "public: void __cdecl GameSystem::Quit(void)" (?Quit@GameSystem@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2001: SDL_PushEvent 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2019: SDL_CreateWindow 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_PollEvent 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_CreateRenderer 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_SetRenderDrawColor 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_RenderClear 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_RenderPresent 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_DestroyRenderer 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_GetTicks 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_Init 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: TTF_Init 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: TTF_Quit 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+RecourceManger.obj : error LNK2019: IMG_LoadTexture 외부 기호(참조 위치: "public: struct SDL_Texture * __cdecl RecourceManger::FindTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?FindTexture@RecourceManger@@QEAAPEAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 함수)에서 확인하지 못했습니다.
+Texture.obj : error LNK2019: SDL_RenderCopy 외부 기호(참조 위치: "public: void __cdecl Texture::Render(void)" (?Render@Texture@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: WinMain 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
+../sdk/sdl_mixer/lib/x86\SDL2_mixer.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+../sdk/sdl_img/lib/x86\SDL2_image.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+../sdk/sdl/lib/x86\SDL2.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+../sdk/sdl/lib/x86\SDL2main.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+../sdk/sdl_ttf/lib/x86\SDL2_ttf.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+E:\Study\01\re\x64\Debug\Rgame.exe : fatal error LNK1120: 23개의 확인할 수 없는 외부 참조입니다.
